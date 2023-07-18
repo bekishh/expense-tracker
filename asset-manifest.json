@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/expense-tracker/static/css/main.c19c4547.css",
+    "main.js": "/expense-tracker/static/js/main.594debc8.js",
+    "index.html": "/expense-tracker/index.html",
+    "main.c19c4547.css.map": "/expense-tracker/static/css/main.c19c4547.css.map",
+    "main.594debc8.js.map": "/expense-tracker/static/js/main.594debc8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c19c4547.css",
+    "static/js/main.594debc8.js"
+  ]
+}
